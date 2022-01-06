@@ -2,7 +2,6 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import {Demo} from './component/Demo'
 
 function App() {
   return (
@@ -20,7 +19,6 @@ function App() {
         >
           Learn React
         </a>
-        <Demo/>
       </header>
     </div>
   );
