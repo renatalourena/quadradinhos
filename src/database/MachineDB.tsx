@@ -22,7 +22,7 @@ const roll3: Roll = {
 
 export const machine1: Machine = {
   identification: "machine 1",
-  rolls: [roll1, roll2]
+  rolls: [roll1, roll1, roll1, roll3, roll2,roll1, roll1, roll1, roll3, roll2,roll1, roll1, roll3, roll2]
 }
 
 export const machine2: Machine = {
