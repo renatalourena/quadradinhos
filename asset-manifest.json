@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/textil-alert/static/css/main.04179b6f.css",
+    "main.js": "/textil-alert/static/js/main.57ba2501.js",
+    "static/js/787.0aaa5a2d.chunk.js": "/textil-alert/static/js/787.0aaa5a2d.chunk.js",
+    "static/media/logo.svg": "/textil-alert/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/textil-alert/index.html",
+    "main.04179b6f.css.map": "/textil-alert/static/css/main.04179b6f.css.map",
+    "main.57ba2501.js.map": "/textil-alert/static/js/main.57ba2501.js.map",
+    "787.0aaa5a2d.chunk.js.map": "/textil-alert/static/js/787.0aaa5a2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04179b6f.css",
+    "static/js/main.57ba2501.js"
+  ]
+}
